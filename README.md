@@ -10,7 +10,7 @@
 ## Habilidades
 - **Desarrollo de Videojuegos:** Unity, Bitsy, Unreal Engine.
 - **Edición Creativa:** Video, Fotografía, 3D.
-- **Programación:** C#, JavaScript, y explorando constantemente.
+- **Programación:** C#, JavaScript, Phyton y explorando constantemente.
 
 ## Proyectos Destacados
 - 🎮 "Assassin Creed by RPG Maker MV" (Demo): Explora el emocionante "Demo de Jugabilidad" de esta adaptación en 2D de "Assassin's Creed 2". Sumérgete en la Italia renacentista, encarnando a Ezio Auditore, y experimenta combates en tiempo real, misiones de infiltración y desbloqueo de habilidades. Este demo ofrece una visión única y emocionante de la experiencia del juego original en un formato 2D, capturando la esencia del sigilo y el combate en la atmósfera renacentista. ¡Descubre una perspectiva diferente de Assassin's Creed en este breve pero fascinante demo!
