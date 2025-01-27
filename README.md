@@ -1,32 +1,66 @@
-# Bienvenido a mi Rincón de Desarrollo 🚀
+# 🚀 Bienvenido a mi Rincón de Desarrollo Creativo
 
-¡Hola! Soy Benjamin, un apasionado estudiante de Ingeniería en Desarrollo de Videojuegos, explorando el vasto mundo de la creación digital. Mi viaje se desarrolla entre los motores gráficos como Unity, Bitsy y Unreal, donde cada línea de código es un paso hacia la realización de experiencias interactivas fascinantes.
+¡Hola! Soy **Benjamin Misael Briseño Mejía**, un apasionado estudiante de **Ingeniería en Desarrollo de Videojuegos**. Mi objetivo es transformar ideas en experiencias interactivas inolvidables, utilizando la tecnología y la creatividad como herramientas clave.
 
-## Acerca de Mí
-- 📚 Estudio Ingeniería en Desarrollo de Videojuegos, fusionando teoría con creatividad.
-- 💻 Apasionado por la programación, especializado en Unity, Bitsy y Unreal Engine.
-- 🎮 Creador de Jamoncito 3D Games Studios, donde la imaginación cobra vida.
+## 🌟 Acerca de Mí
+- 🎓 **Estudiante de Ingeniería en Desarrollo de Videojuegos**, fusionando teoría con práctica en el diseño y programación de videojuegos.
+- 🛠️ **Apasionado por el desarrollo interactivo**, especializado en motores gráficos como **Unity**, **Unreal Engine** y **Bitsy**.
+- 🎮 **Fundador de Jamoncito 3D Games Studios**, un espacio donde las ideas cobran vida en forma de aventuras digitales.
+- 🌌 Participante activo en **Game Jams**, como la **Global Game Jam 2025**, donde co-creé *Drowning Depths*, un juego basado en la temática "burbujas".
 
-## Habilidades
-- **Desarrollo de Videojuegos:** Unity, Bitsy, Unreal Engine.
-- **Edición Creativa:** Video, Fotografía, 3D.
-- **Programación:** C#, JavaScript, Phyton y explorando constantemente.
+## 🧰 Habilidades y Experiencia
+- **Motores de Videojuegos:** Unity, Unreal Engine, Bitsy.
+- **Lenguajes de Programación:** C#, Python, JavaScript.
+- **Edición Creativa:** Diseño 3D, edición de video y fotografía.
+- **Prototipado Rápido:** Creación de demos y mecánicas innovadoras.
+- **Colaboración en Equipos Creativos:** Trabajo multidisciplinario con desarrolladores, diseñadores y artistas.
 
-## Proyectos Destacados
-- 🎮 "Assassin Creed by RPG Maker MV" (Demo): Explora el emocionante "Demo de Jugabilidad" de esta adaptación en 2D de "Assassin's Creed 2". Sumérgete en la Italia renacentista, encarnando a Ezio Auditore, y experimenta combates en tiempo real, misiones de infiltración y desbloqueo de habilidades. Este demo ofrece una visión única y emocionante de la experiencia del juego original en un formato 2D, capturando la esencia del sigilo y el combate en la atmósfera renacentista. ¡Descubre una perspectiva diferente de Assassin's Creed en este breve pero fascinante demo!
-- - 🎨 **"Hideout Cat":** Bienvenido al emocionante mundo de "Hideout Cat", un juego de laberintos en el que te descubrirás como un detective encargado de encontrar los gatos desaparecidos de una anciana.
+---
 
-  La señora Margaret, una amante de los gatos, ha perdido a sus queridos felinos en su gran casa llena de habitaciones y secretos[^1^]. Como detective, deberás explorar cada rincón de la casa para descubrir el paradero de los gatos perdidos. A medida que avanzas, te enfrentarás a desafiantes laberintos para encontrar a estos traviesos felinos.
+## 🎮 Proyectos Destacados
 
-  Pero no todo es tan fácil como parece; deberás ser astuto y usar todas tus habilidades de detective para reunir a los gatos perdidos. Con una trama emocionante y un diseño de juego envolvente, "Hideout Cat" te desafía: ¿Serás capaz de resolver el misterio y encontrar a todos los gatos de la señora Margaret? ¡Atrévete a descubrirlo!
+### **Drowning Depths (Global Game Jam 2025)**
+Explora las profundidades marinas en un juego donde la respiración es tu límite. Este proyecto, desarrollado en 48 horas, combina estrategia y supervivencia en un entorno inmersivo.  
+**Tema:** *Burbujas*.
 
-  **Creadores:**
-  - Diego Arellano Sánchez
-  - Benjamin Misael Briseño Mejia
+---
 
-- 🌐 **Sitio Web de Jamoncito 3D Games Studios:** [Explora aquí](https://ben10briseno9.wixsite.com/jamoncito-3d-games-s)
+### **Assassin's Creed 2D (Demo en RPG Maker MV)**
+Revive las aventuras de Ezio Auditore en una versión 2D de *Assassin's Creed 2*. Explora la Italia renacentista con combates en tiempo real, misiones de infiltración y habilidades desbloqueables.  
+**Plataforma:** RPG Maker MV.
 
-## Filosofía de Desarrollo
-Mi enfoque va más allá del código; es sobre contar historias, generar experiencias y explorar límites creativos. Colaborar es clave, y cada proyecto es una oportunidad para aprender y crecer.
+---
 
-¡Bienvenido a mi repositorio, donde las líneas de código se entrelazan con mundos imaginarios! 🌌✨
+### **Hideout Cat**
+Sumérgete en una historia única como detective encargado de encontrar los gatos perdidos de la anciana Margaret. Este proyecto combina laberintos desafiantes con una narrativa encantadora.  
+
+**Creadores:**
+- Diego Arellano Sánchez
+- Benjamin Misael Briseño Mejía
+
+---
+
+### **Haz que las Bellotas Sucedan**
+En este encantador juego, ayudas a una astuta ardilla a recolectar bellotas mientras sorteas obstáculos y desafíos. Con mecánicas simples pero envolventes, el juego combina plataformas dinámicas y recolección estratégica.  
+**Características:**
+- Recolección de objetos y logros.
+- Mecánicas de salto precisas y retos crecientes.
+- Una experiencia visual atractiva con un estilo artístico adorable.
+
+**Plataformas:**  
+- Disponible para dispositivos móviles y PC.
+
+---
+
+## 🌐 Sitio Web
+Descubre más sobre **Jamoncito 3D Games Studios** y mis proyectos en mi sitio web oficial:  
+[Visítalo aquí](https://ben10briseno9.wixsite.com/jamoncito-3d-games-s).
+
+---
+
+## ✨ Filosofía de Desarrollo
+Para mí, el desarrollo de videojuegos no es solo programación; es **crear historias** y **despertar emociones**. Cada proyecto representa una oportunidad para experimentar, colaborar y superar límites. Mi enfoque está en combinar **mecánicas innovadoras** con narrativas inmersivas, siempre buscando dejar una impresión duradera.
+
+---
+
+¡Gracias por visitar mi rincón creativo! Si te interesa colaborar o simplemente explorar mis proyectos, no dudes en ponerte en contacto. 🌌✨
