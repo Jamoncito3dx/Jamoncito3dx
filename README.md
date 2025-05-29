@@ -1,66 +1,71 @@
-# 🚀 Bienvenido a mi Rincón de Desarrollo Creativo
+🚀 Bienvenido a mi Rincón de Desarrollo Creativo
+¡Hola! Soy Benjamin Misael Briseño Mejía, estudiante de Ingeniería en Desarrollo de Videojuegos. Me especializo en transformar ideas en experiencias interactivas que combinan tecnología, arte y narrativa.
 
-¡Hola! Soy **Benjamin Misael Briseño Mejía**, un apasionado estudiante de **Ingeniería en Desarrollo de Videojuegos**. Mi objetivo es transformar ideas en experiencias interactivas inolvidables, utilizando la tecnología y la creatividad como herramientas clave.
+🌟 Sobre Mí
+🎓 Formación: Estudiante activo de Ingeniería en Desarrollo de Videojuegos, con enfoque en el diseño de mecánicas, narrativa interactiva y prototipado ágil.
 
-## 🌟 Acerca de Mí
-- 🎓 **Estudiante de Ingeniería en Desarrollo de Videojuegos**, fusionando teoría con práctica en el diseño y programación de videojuegos.
-- 🛠️ **Apasionado por el desarrollo interactivo**, especializado en motores gráficos como **Unity**, **Unreal Engine** y **Bitsy**.
-- 🎮 **Fundador de Jamoncito 3D Games Studios**, un espacio donde las ideas cobran vida en forma de aventuras digitales.
-- 🌌 Participante activo en **Game Jams**, como la **Global Game Jam 2025**, donde co-creé *Drowning Depths*, un juego basado en la temática "burbujas".
+🛠️ Desarrollador interdisciplinario, con experiencia en motores gráficos como Unity, Unreal Engine y Bitsy.
 
-## 🧰 Habilidades y Experiencia
-- **Motores de Videojuegos:** Unity, Unreal Engine, Bitsy.
-- **Lenguajes de Programación:** C#, Python, JavaScript.
-- **Edición Creativa:** Diseño 3D, edición de video y fotografía.
-- **Prototipado Rápido:** Creación de demos y mecánicas innovadoras.
-- **Colaboración en Equipos Creativos:** Trabajo multidisciplinario con desarrolladores, diseñadores y artistas.
+🧠 Creador de experiencias interactivas, impulsadas por una filosofía que integra emoción, exploración y diseño significativo.
 
----
+🚀 Fundador de Jamoncito 3D Games Studios, espacio de creación independiente donde las ideas se materializan en videojuegos con identidad propia.
 
-## 🎮 Proyectos Destacados
+🌊 Participante de Global Game Jam 2025 con Drowning Depths, juego donde el oxígeno determina el límite de supervivencia, basado en la temática "burbujas".
 
-### **Drowning Depths (Global Game Jam 2025)**
-Explora las profundidades marinas en un juego donde la respiración es tu límite. Este proyecto, desarrollado en 48 horas, combina estrategia y supervivencia en un entorno inmersivo.  
-**Tema:** *Burbujas*.
+🧰 Habilidades Técnicas y Creativas
+Área	Competencias Clave
+Motores de Juego	Unity, Unreal Engine, Bitsy
+Lenguajes	C#, Python, JavaScript
+Diseño y Arte	Modelado y animación 3D, edición de video, edición fotográfica
+Desarrollo Web	WordPress, Elementor, HTML5, CSS3, Wix
+Prototipado Rápido	Desarrollo ágil de MVPs, pruebas de mecánicas y validación de concepto
+Trabajo Colaborativo	Coordinación con equipos multidisciplinarios en proyectos de desarrollo y diseño
 
----
+🎮 Proyectos Destacados
+🔹 Drowning Depths
+(Global Game Jam 2025)
+Explora un mundo submarino donde tu aliento define tu destino. Desarrollado en 48 horas, este título mezcla supervivencia y estrategia en una experiencia atmosférica e inmersiva.
+Tema: Burbujas
+Rol: Programación y diseño de mecánicas centrales
 
-### **Assassin's Creed 2D (Demo en RPG Maker MV)**
-Revive las aventuras de Ezio Auditore en una versión 2D de *Assassin's Creed 2*. Explora la Italia renacentista con combates en tiempo real, misiones de infiltración y habilidades desbloqueables.  
-**Plataforma:** RPG Maker MV.
+🔹 Assassin's Creed 2D
+(Demo no oficial en RPG Maker MV)
+Adaptación 2D del universo de Ezio Auditore, ambientado en la Italia renacentista. Implementa combate en tiempo real, sigilo y misiones narrativas.
+Plataforma: RPG Maker MV
 
----
+🔹 Hideout Cat
+Juego de aventuras donde debes ayudar a Margaret a encontrar a sus gatos perdidos. Combina exploración, puzzles y narrativa emocional.
+Colaboradores: Diego Arellano Sánchez, Benjamin Misael Briseño Mejía
 
-### **Hideout Cat**
-Sumérgete en una historia única como detective encargado de encontrar los gatos perdidos de la anciana Margaret. Este proyecto combina laberintos desafiantes con una narrativa encantadora.  
+🔹 Haz que las Bellotas Sucedan
+Un dinámico juego de plataformas con estética adorable. Controlas a una ardilla que recolecta bellotas mientras esquiva obstáculos.
+Características:
 
-**Creadores:**
-- Diego Arellano Sánchez
-- Benjamin Misael Briseño Mejía
+Recolección con logros progresivos
 
----
+Mecánicas simples con diseño envolvente
 
-### **Haz que las Bellotas Sucedan**
-En este encantador juego, ayudas a una astuta ardilla a recolectar bellotas mientras sorteas obstáculos y desafíos. Con mecánicas simples pero envolventes, el juego combina plataformas dinámicas y recolección estratégica.  
-**Características:**
-- Recolección de objetos y logros.
-- Mecánicas de salto precisas y retos crecientes.
-- Una experiencia visual atractiva con un estilo artístico adorable.
+Disponible para PC y dispositivos móviles
 
-**Plataformas:**  
-- Disponible para dispositivos móviles y PC.
+🌐 Desarrollo Web y WordPress
+Además del desarrollo de videojuegos, también me desempeño como desarrollador web, integrando diseño visual y funcionalidad para proyectos educativos y promocionales.
+Especialidades:
 
----
+Creación de sitios web responsivos con WordPress y Elementor
 
-## 🌐 Sitio Web
-Descubre más sobre **Jamoncito 3D Games Studios** y mis proyectos en mi sitio web oficial:  
-[Visítalo aquí](https://ben10briseno9.wixsite.com/jamoncito-3d-games-s).
+Adaptación mobile-first
 
----
+Optimización visual y de experiencia de usuario (UI/UX)
 
-## ✨ Filosofía de Desarrollo
-Para mí, el desarrollo de videojuegos no es solo programación; es **crear historias** y **despertar emociones**. Cada proyecto representa una oportunidad para experimentar, colaborar y superar límites. Mi enfoque está en combinar **mecánicas innovadoras** con narrativas inmersivas, siempre buscando dejar una impresión duradera.
+Integración de formularios, secciones interactivas y personalización de identidad gráfica
 
----
+🖥️ Sitio personal:
+Jamoncito 3D Games Studios
 
-¡Gracias por visitar mi rincón creativo! Si te interesa colaborar o simplemente explorar mis proyectos, no dudes en ponerte en contacto. 🌌✨
+✨ Filosofía de Desarrollo
+Concibo el desarrollo de videojuegos como un puente entre lo emocional, lo narrativo y lo tecnológico. No se trata solo de programar, sino de crear mundos que se sientan vivos. Cada proyecto es una oportunidad para innovar, experimentar y conectar con las personas.
+
+“Diseñar es contar una historia con decisiones, mecánicas y consecuencias.”
+
+🤝 ¿Colaboramos?
+Estoy en constante búsqueda de nuevas oportunidades de colaboración y aprendizaje. Si tienes una idea, proyecto o simplemente curiosidad por lo que hago, ¡estaré encantado de platicar!
